@@ -154,7 +154,7 @@ The current theme uses gold accent colors. To change:
 
 This project is open source and available under the MIT License.
 
-## 🙏Acknowledgments
+## Acknowledgments
 
 - UI components from [shadcn/ui](https://ui.shadcn.com/)
 - Stock photos from [Unsplash](https://unsplash.com)
