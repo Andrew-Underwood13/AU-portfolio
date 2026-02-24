@@ -51,7 +51,7 @@ export function Hero() {
             <div className="w-32 h-32 sm:w-40 sm:h-40 md:w-48 md:h-48 rounded-full overflow-hidden border-4 border-yellow-500/30 relative bg-gradient-to-br from-yellow-500/20 to-yellow-600/20 flex items-center justify-center">
               {/* Placeholder with initials - replace with your photo by adding /public/profile-photo.jpg */}
               <img
-                src="/profile-photo.jpg"
+                src="/profile-photo-v2.jpg"
                 alt="Andrew Underwood"
                 className="w-full h-full object-cover scale-[1.4]"
                 style={{ objectPosition: '50% 25%' }}
